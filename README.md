@@ -57,7 +57,7 @@ mkdir C:\malicious
 
 3/ Copy your mock `xmllite.dll` into that repository:
 ```
-copy payload\xmllite.dll
+copy payload\xmllite.dll C:\malicious\xmllite.dll
 ```
 
 ### Usage
